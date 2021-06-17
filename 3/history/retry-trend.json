@@ -31,6 +31,14 @@
     "retry" : 0
   }
 }, {
+  "buildOrder" : 3,
+  "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/3/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 0,
+    "retry" : 0
+  }
+}, {
   "data" : {
     "run" : 0,
     "retry" : 0
