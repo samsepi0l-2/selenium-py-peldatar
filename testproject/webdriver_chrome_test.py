@@ -1,4 +1,4 @@
-from selenium import webdriver
+"""from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
 driver = webdriver.Chrome()
@@ -9,4 +9,4 @@ elem.clear()
 elem.send_keys("pycon")
 elem.send_keys(Keys.RETURN)
 assert "No results found." not in driver.page_source
-driver.close()
+driver.close()"""
