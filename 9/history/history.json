@@ -9,12 +9,12 @@
       "total" : 4
     },
     "items" : [ {
-      "uid" : "a3da85c7318f8cf3",
-      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/9//#testresult/a3da85c7318f8cf3",
+      "uid" : "f5a98b067e17f963",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/9//#testresult/f5a98b067e17f963",
       "status" : "passed",
       "time" : {
-        "start" : 1624061509399,
-        "stop" : 1624061509399,
+        "start" : 1624061513179,
+        "stop" : 1624061513179,
         "duration" : 0
       }
     }, {
@@ -56,12 +56,12 @@
       "total" : 4
     },
     "items" : [ {
-      "uid" : "f0b64655898f318b",
-      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/9//#testresult/f0b64655898f318b",
+      "uid" : "b157dce647c55b3b",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/9//#testresult/b157dce647c55b3b",
       "status" : "passed",
       "time" : {
-        "start" : 1624061509402,
-        "stop" : 1624061509402,
+        "start" : 1624061513182,
+        "stop" : 1624061513182,
         "duration" : 0
       }
     }, {
@@ -103,12 +103,12 @@
       "total" : 4
     },
     "items" : [ {
-      "uid" : "e986cbdc402bea94",
-      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/9//#testresult/e986cbdc402bea94",
+      "uid" : "123eb5f14da09480",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/9//#testresult/123eb5f14da09480",
       "status" : "passed",
       "time" : {
-        "start" : 1624061509390,
-        "stop" : 1624061509390,
+        "start" : 1624061513142,
+        "stop" : 1624061513142,
         "duration" : 0
       }
     }, {
@@ -150,12 +150,12 @@
       "total" : 4
     },
     "items" : [ {
-      "uid" : "69664305dbd1b4fc",
-      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/9//#testresult/69664305dbd1b4fc",
+      "uid" : "ca5cb350355f0851",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/9//#testresult/ca5cb350355f0851",
       "status" : "passed",
       "time" : {
-        "start" : 1624061509401,
-        "stop" : 1624061509401,
+        "start" : 1624061513180,
+        "stop" : 1624061513180,
         "duration" : 0
       }
     }, {
