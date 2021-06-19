@@ -4,6 +4,11 @@
   "reportName" : "Allure Report with history",
   "data" : { }
 }, {
+  "buildOrder" : 11,
+  "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/11/",
+  "reportName" : "Allure Report with history",
+  "data" : { }
+}, {
   "buildOrder" : 10,
   "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/10/",
   "reportName" : "Allure Report with history",

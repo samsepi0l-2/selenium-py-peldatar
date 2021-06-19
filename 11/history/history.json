@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "1f4d3ff2e6881a9c",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/11//#testresult/1f4d3ff2e6881a9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624143964760,
+        "stop" : 1624143964760,
+        "duration" : 0
+      }
+    }, {
       "uid" : "27514e44313438e2",
       "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/11//#testresult/27514e44313438e2",
       "status" : "passed",
@@ -78,11 +87,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "dd54de342638abd8",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/11//#testresult/dd54de342638abd8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624143964763,
+        "stop" : 1624143964763,
+        "duration" : 0
+      }
+    }, {
       "uid" : "2b5613748b283f58",
       "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/11//#testresult/2b5613748b283f58",
       "status" : "passed",
@@ -152,11 +170,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "25619086119018c1",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/11//#testresult/25619086119018c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624143964752,
+        "stop" : 1624143964752,
+        "duration" : 0
+      }
+    }, {
       "uid" : "b43c7b1d852325c",
       "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/11//#testresult/b43c7b1d852325c",
       "status" : "passed",
@@ -226,11 +253,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "f869be39e2dbd269",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/11//#testresult/f869be39e2dbd269",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624143964761,
+        "stop" : 1624143964761,
+        "duration" : 0
+      }
+    }, {
       "uid" : "cba135e1c7e34af0",
       "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/11//#testresult/cba135e1c7e34af0",
       "status" : "passed",
