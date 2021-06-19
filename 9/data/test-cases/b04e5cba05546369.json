@@ -1,11 +1,11 @@
 {
-  "uid" : "b157dce647c55b3b",
+  "uid" : "b04e5cba05546369",
   "name" : "test_add_string__expect_exception",
   "fullName" : "testproject.test_mymath#test_add_string__expect_exception",
   "historyId" : "0e93b819cc2e8121f7281dc8e4eaaf78",
   "time" : {
-    "start" : 1624061513182,
-    "stop" : 1624061513182,
+    "start" : 1624061517693,
+    "stop" : 1624061517693,
     "duration" : 0
   },
   "status" : "passed",
@@ -24,7 +24,7 @@
     "value" : "fv-az38-550"
   }, {
     "name" : "thread",
-    "value" : "3724-MainThread"
+    "value" : "3806-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -51,11 +51,20 @@
         "failed" : 0,
         "broken" : 0,
         "skipped" : 0,
-        "passed" : 4,
+        "passed" : 5,
         "unknown" : 0,
-        "total" : 4
+        "total" : 5
       },
       "items" : [ {
+        "uid" : "f0b64655898f318b",
+        "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/9//#testresult/f0b64655898f318b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624061509402,
+          "stop" : 1624061509402,
+          "duration" : 0
+        }
+      }, {
         "uid" : "1597343c66e43041",
         "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/8//#testresult/1597343c66e43041",
         "status" : "passed",
@@ -86,6 +95,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "b157dce647c55b3b.json",
+  "source" : "b04e5cba05546369.json",
   "parameterValues" : [ ]
 }
