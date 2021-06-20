@@ -5,6 +5,7 @@ def szokoev(evszam):
         return True
     else:
         return False
+
 eredmeny = ""
 counter = int(input("Hány darab évszámra vagy kíváncsi?: "))
 for i in range(counter):
