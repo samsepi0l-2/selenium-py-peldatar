@@ -16,7 +16,10 @@ print("-"*50)
 elem3 = browser.find_element_by_id("hide-textbox")
 elem3.click()
 
-elem4 = browser.find_element_by_xpath("//input[@style='display: none;']")
+#elem4 = browser.find_element_by_xpath("//input[@style='display: none;']")
+elem4 = browser.find_element_by_xpath("//*[@id='displayed-text']")
+rejtett_placeholder= elem4.get_attribute("placeholder")
 
-print(f"A {elem4.size} méretű rejtett elem típusa: {elem4.tag_name}")
+print(f"A {elem4.size} méretű rejtett {elem4.tag_name} elem placeholder szövege: {rejtett_placeholder}")
+
 browser.quit()
