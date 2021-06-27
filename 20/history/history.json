@@ -9,12 +9,12 @@
       "total" : 18
     },
     "items" : [ {
-      "uid" : "10270d7cbc8aeac4",
-      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/20//#testresult/10270d7cbc8aeac4",
+      "uid" : "d7499ad91cae72e9",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/20//#testresult/d7499ad91cae72e9",
       "status" : "passed",
       "time" : {
-        "start" : 1624835229527,
-        "stop" : 1624835229527,
+        "start" : 1624835233189,
+        "stop" : 1624835233189,
         "duration" : 0
       }
     }, {
@@ -182,12 +182,12 @@
       "total" : 18
     },
     "items" : [ {
-      "uid" : "1f19d29f3a4bcdbb",
-      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/20//#testresult/1f19d29f3a4bcdbb",
+      "uid" : "3bb99ef2706ffc63",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/20//#testresult/3bb99ef2706ffc63",
       "status" : "passed",
       "time" : {
-        "start" : 1624835229530,
-        "stop" : 1624835229530,
+        "start" : 1624835233192,
+        "stop" : 1624835233192,
         "duration" : 0
       }
     }, {
@@ -355,12 +355,12 @@
       "total" : 18
     },
     "items" : [ {
-      "uid" : "dcf3677568dea3aa",
-      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/20//#testresult/dcf3677568dea3aa",
+      "uid" : "e3f919067e6551d1",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/20//#testresult/e3f919067e6551d1",
       "status" : "passed",
       "time" : {
-        "start" : 1624835229525,
-        "stop" : 1624835229525,
+        "start" : 1624835233180,
+        "stop" : 1624835233180,
         "duration" : 0
       }
     }, {
@@ -528,12 +528,12 @@
       "total" : 18
     },
     "items" : [ {
-      "uid" : "f6c2a41d1d9669ec",
-      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/20//#testresult/f6c2a41d1d9669ec",
+      "uid" : "a25105a84ca98afe",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/20//#testresult/a25105a84ca98afe",
       "status" : "passed",
       "time" : {
-        "start" : 1624835229529,
-        "stop" : 1624835229529,
+        "start" : 1624835233190,
+        "stop" : 1624835233190,
         "duration" : 0
       }
     }, {
