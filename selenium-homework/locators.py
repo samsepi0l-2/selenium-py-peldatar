@@ -21,5 +21,8 @@ elem4 = browser.find_element_by_xpath("//*[@id='displayed-text']")
 rejtett_placeholder= elem4.get_attribute("placeholder")
 
 print(f"A {elem4.size} méretű rejtett {elem4.tag_name} elem placeholder szövege: {rejtett_placeholder}")
+print("-"*50)
 
+elem5 = browser.find_element_by_xpath("/html/body/div[2]/div[2]/fieldset/select/option[3]")
+print(f"A lenyíló menü 3. eleme: {elem5.text}")
 browser.quit()
