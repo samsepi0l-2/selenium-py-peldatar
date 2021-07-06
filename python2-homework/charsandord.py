@@ -44,11 +44,13 @@ vegso_szoveg = ""
 kisbetus_lista = TEXT.lower()
 szo_lista = kisbetus_lista.split()
 
-for szavak in szo_lista:
-    szo_tar[szavak] = szo_tar.get(szavak, 0) + 1
+for szo in szo_lista:
+    szo_tar[szo] = szo_tar.get(szo, 0) + 1
 
 kimenet_lista = list(szo_tar.items())
 kimenet_lista.sort()
+
 for i in kimenet_lista:
-    vegso_szoveg = vegso_szoveg + f"{i[0]}_előfordulások_száma_{i[1]}  "
+    vegso_szoveg = vegso_szoveg + f"{i[0]}_előfordulások_száma_{i[1]} "
+
 print(vegso_szoveg)
