@@ -9,12 +9,12 @@
       "total" : 32
     },
     "items" : [ {
-      "uid" : "47759884c1b4bbac",
-      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/32//#testresult/47759884c1b4bbac",
+      "uid" : "c370ea48bcabcf82",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/32//#testresult/c370ea48bcabcf82",
       "status" : "passed",
       "time" : {
-        "start" : 1625849487108,
-        "stop" : 1625849487108,
+        "start" : 1625849492592,
+        "stop" : 1625849492592,
         "duration" : 0
       }
     }, {
@@ -200,12 +200,12 @@
       "total" : 32
     },
     "items" : [ {
-      "uid" : "246191bf68379499",
-      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/32//#testresult/246191bf68379499",
+      "uid" : "47132f6ea55ac18c",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/32//#testresult/47132f6ea55ac18c",
       "status" : "passed",
       "time" : {
-        "start" : 1625849487110,
-        "stop" : 1625849487110,
+        "start" : 1625849492595,
+        "stop" : 1625849492595,
         "duration" : 0
       }
     }, {
@@ -391,12 +391,12 @@
       "total" : 32
     },
     "items" : [ {
-      "uid" : "e9783af25ad10b4e",
-      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/32//#testresult/e9783af25ad10b4e",
+      "uid" : "ab79a2d467b64be7",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/32//#testresult/ab79a2d467b64be7",
       "status" : "passed",
       "time" : {
-        "start" : 1625849487101,
-        "stop" : 1625849487101,
+        "start" : 1625849492579,
+        "stop" : 1625849492579,
         "duration" : 0
       }
     }, {
@@ -582,13 +582,13 @@
       "total" : 32
     },
     "items" : [ {
-      "uid" : "6301af7bcdfea9bf",
-      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/32//#testresult/6301af7bcdfea9bf",
+      "uid" : "677cc7fb43d62754",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/32//#testresult/677cc7fb43d62754",
       "status" : "passed",
       "time" : {
-        "start" : 1625849487109,
-        "stop" : 1625849487109,
-        "duration" : 0
+        "start" : 1625849492593,
+        "stop" : 1625849492594,
+        "duration" : 1
       }
     }, {
       "uid" : "585dd6f27843c271",
