@@ -9,12 +9,12 @@
       "total" : 37
     },
     "items" : [ {
-      "uid" : "ff323c016fb1725b",
-      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/36//#testresult/ff323c016fb1725b",
+      "uid" : "23dda20c3a305c95",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/36//#testresult/23dda20c3a305c95",
       "status" : "passed",
       "time" : {
-        "start" : 1626380559141,
-        "stop" : 1626380559141,
+        "start" : 1626380563463,
+        "stop" : 1626380563463,
         "duration" : 0
       }
     }, {
@@ -200,12 +200,12 @@
       "total" : 37
     },
     "items" : [ {
-      "uid" : "c8ee031099203e56",
-      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/36//#testresult/c8ee031099203e56",
+      "uid" : "55612d8418c2677c",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/36//#testresult/55612d8418c2677c",
       "status" : "passed",
       "time" : {
-        "start" : 1626380559144,
-        "stop" : 1626380559144,
+        "start" : 1626380563466,
+        "stop" : 1626380563466,
         "duration" : 0
       }
     }, {
@@ -391,12 +391,12 @@
       "total" : 37
     },
     "items" : [ {
-      "uid" : "cd1e63c0dd5d86ca",
-      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/36//#testresult/cd1e63c0dd5d86ca",
+      "uid" : "92591508adaf4a9",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/36//#testresult/92591508adaf4a9",
       "status" : "passed",
       "time" : {
-        "start" : 1626380559139,
-        "stop" : 1626380559139,
+        "start" : 1626380563460,
+        "stop" : 1626380563460,
         "duration" : 0
       }
     }, {
@@ -582,13 +582,13 @@
       "total" : 37
     },
     "items" : [ {
-      "uid" : "2300bff01dc38fbb",
-      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/36//#testresult/2300bff01dc38fbb",
+      "uid" : "fed52a4a3174e976",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/36//#testresult/fed52a4a3174e976",
       "status" : "passed",
       "time" : {
-        "start" : 1626380559143,
-        "stop" : 1626380559143,
-        "duration" : 0
+        "start" : 1626380563464,
+        "stop" : 1626380563465,
+        "duration" : 1
       }
     }, {
       "uid" : "321a8e55010b692e",
