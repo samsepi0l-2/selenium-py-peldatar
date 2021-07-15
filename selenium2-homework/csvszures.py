@@ -5,7 +5,7 @@ with open('new.csv', 'w', encoding = 'utf-8') as new_csv:
         nevek = csv.reader(csvfile, delimiter = ',')
 
         for i in nevek:
-            new_csv.write(i[0]+ "," + i[1].strip() + "\n")
+            new_csv.write(i[1].strip() + "," + i[0] + "\n")
 
 # with open('new.csv', 'w', encoding = 'utf-8') as new_csv
 #
