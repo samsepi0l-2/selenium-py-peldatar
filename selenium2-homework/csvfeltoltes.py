@@ -53,7 +53,7 @@ with open("table_in2.csv", "r", encoding="utf-8") as tablazat:
 #                     counter += 1
 #                     print("\n")
 #                     break
-except:
-    print("Valami nem működik")
+# except:
+#     print("Valami nem működik")
 
 browser.quit()
