@@ -3,6 +3,13 @@
   "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/38/",
   "reportName" : "Allure Report with history",
   "data" : {
+    "duration" : 6
+  }
+}, {
+  "buildOrder" : 38,
+  "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/38/",
+  "reportName" : "Allure Report with history",
+  "data" : {
     "duration" : 13
   }
 }, {
@@ -130,12 +137,5 @@
   "reportName" : "Allure Report with history",
   "data" : {
     "duration" : 5
-  }
-}, {
-  "buildOrder" : 21,
-  "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/21/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 12
   }
 } ]
