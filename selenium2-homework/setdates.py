@@ -1,7 +1,8 @@
 from selenium import webdriver
-import  time
 from datetime import date, datetime, time, timezone
-browser = webdriver.Chrome()
+
+# itt inkább firefoxot választottam, mert chrome-ban szinte az összes formátum más, mint a feladat kéri
+browser = webdriver.Firefox()
 browser.get("http://localhost:9999/forms.html")
 
 mezo_date = browser.find_element_by_id("example-input-date")
@@ -11,22 +12,28 @@ mezo_month = browser.find_element_by_id("example-input-month")
 mezo_week = browser.find_element_by_id("example-input-week")
 mezo_time = browser.find_element_by_id("example-input-time")
 
+# ha aktuális dátum kéne
 # valami = datetime.now(timezone.utc)
 # valami2 = valami.date()
 
 datum = datetime(2021, 5, 6)
-print(datum.strftime('%m/%d/%Y'))
-mezo_date.send_keys(datum.strftime('%m/%d/%Y'))
 ujdatum = datetime(2012, 5, 5, 5, 5, 5, 555)
-print(ujdatum.strftime('%Y.%m.%d. %H:%M:%S:555'))
-mezo_date_time.send_keys(ujdatum.strftime('%Y.%m.%d. %H:%M:%S:555'))
 ujdatum2 = datetime(2000, 12, 5, 12, 1)
-print(ujdatum2.strftime('%d/%m/%Y %H:%M %p'))
 ujdatum3 = datetime(1995, 12, 2)
-print(ujdatum3.strftime('%B %Y'))
 ujdatum4 = datetime(2015, 12, 30)
-print(ujdatum4.strftime('Week %U, %Y'))
 ujdatum5 = time(12,25)
-print(ujdatum5.strftime('%H:%M AM'))
+
+# a feladatban hibásan van megadva, nem veszi be
+mezo_date.send_keys(datum.strftime('%m/%d/%Y'))
+mezo_date_time.send_keys(ujdatum.strftime('%Y.%m.%d. %H:%M:%S:555'))
+mezo_local.send_keys(ujdatum2.strftime('%d/%m/%Y %H:%M %p'))
+mezo_month.send_keys(ujdatum3.strftime('%B %Y'))
+mezo_week.send_keys(ujdatum4.strftime('Week %U, %Y'))
+
+# ezt kérné a feladat, de ez így hibás formátum
+# mezo_time.send_keys(ujdatum5.strftime('%H:%M AM'))
+
+# ezt fogadja el
+mezo_time.send_keys(ujdatum5.strftime('%H:%M'))
 
 browser.quit()
