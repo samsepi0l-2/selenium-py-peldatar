@@ -9,12 +9,12 @@
       "total" : 49
     },
     "items" : [ {
-      "uid" : "aa0e932436afcd17",
-      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/45//#testresult/aa0e932436afcd17",
+      "uid" : "2570f020cc01103",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/45//#testresult/2570f020cc01103",
       "status" : "passed",
       "time" : {
-        "start" : 1627426722591,
-        "stop" : 1627426722591,
+        "start" : 1627426727477,
+        "stop" : 1627426727477,
         "duration" : 0
       }
     }, {
@@ -200,13 +200,13 @@
       "total" : 49
     },
     "items" : [ {
-      "uid" : "3bbfd6265f3f04e0",
-      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/45//#testresult/3bbfd6265f3f04e0",
+      "uid" : "43799a7a6089c431",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/45//#testresult/43799a7a6089c431",
       "status" : "passed",
       "time" : {
-        "start" : 1627426722594,
-        "stop" : 1627426722594,
-        "duration" : 0
+        "start" : 1627426727481,
+        "stop" : 1627426727482,
+        "duration" : 1
       }
     }, {
       "uid" : "b89911bb97c66dbb",
@@ -391,13 +391,13 @@
       "total" : 49
     },
     "items" : [ {
-      "uid" : "d6005de0d3e6ca93",
-      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/45//#testresult/d6005de0d3e6ca93",
+      "uid" : "4ef854f947afea2e",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/45//#testresult/4ef854f947afea2e",
       "status" : "passed",
       "time" : {
-        "start" : 1627426722589,
-        "stop" : 1627426722589,
-        "duration" : 0
+        "start" : 1627426727474,
+        "stop" : 1627426727475,
+        "duration" : 1
       }
     }, {
       "uid" : "5c5141e7914ceb87",
@@ -582,12 +582,12 @@
       "total" : 49
     },
     "items" : [ {
-      "uid" : "b6af4a8ddeb5b5a7",
-      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/45//#testresult/b6af4a8ddeb5b5a7",
+      "uid" : "4387f45625dd7fb9",
+      "reportUrl" : "https://samsepi0l-2.github.io/selenium-py-peldatar/45//#testresult/4387f45625dd7fb9",
       "status" : "passed",
       "time" : {
-        "start" : 1627426722593,
-        "stop" : 1627426722593,
+        "start" : 1627426727480,
+        "stop" : 1627426727480,
         "duration" : 0
       }
     }, {
