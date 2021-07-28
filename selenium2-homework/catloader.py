@@ -25,7 +25,7 @@ time.sleep(2)
 all_id = browser.find_elements_by_xpath("//div[@class='image']/p")
 first_img = all_img[1].get_attribute("src")
 
-time.sleep(2)
+# time.sleep(2)
 for i in range(len(all_img)):
     time.sleep(0.3)
     sorszam = i + 1
@@ -33,5 +33,5 @@ for i in range(len(all_img)):
     with open(f".\\cat\\{sorszam}_{id}.png", 'wb') as file:
         file.write(all_img[i].screenshot_as_png)
 
-time.sleep(20)
+# time.sleep(20)
 browser.close()
